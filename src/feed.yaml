@@ -6,6 +6,7 @@ image: /images/advisorj.png
 language: en-us
 category: Technology
 format: audio/mpeg
+link: https://starscream116.github.io/Advisor-J-Podcast
 item:
   - title: EP01-What's Happening in 2024
     description: Advosr J's take on the technology landscape in South Korea.
